@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: django_project/settings.py
+  checksum: b8a39942f0731cf90f3d5afc5f70285d32465895483da99d37f5102a5a8b4643
+version: "1.0"
